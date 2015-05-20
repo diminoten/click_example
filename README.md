@@ -1,7 +1,12 @@
 # Click Example Project v1.0
 
 ###Installation:
-`pip install .`
+```Bash
+git clone https://github.com/diminoten/click_example.git
+cd click_example
+virtualenv env && env/bin/activate
+pip install -e .
+```
 
 ###Example usage:
 ```Bash
